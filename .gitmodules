@@ -1,0 +1,3 @@
+[submodule "vendors/banana-slides"]
+	path = vendors/banana-slides
+	url = git@github.com:Anionex/banana-slides.git
